@@ -1,8 +1,5 @@
 
 
-
-Here is a sample README.md file for a WebRTC video chat website:
-
 # WebRTC Video Chat App
 
 This is the codebase for a real-time video chat web application built using WebRTC. 
